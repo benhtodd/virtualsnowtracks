@@ -10,7 +10,7 @@ taxonomy:
 
 # MinIO Quickstart Guide - vSphere 8 Supervisor Service
 
-![MinIO](/_images/minio.logo.svg)
+![MinIO](/_images/minio-logo.png)
 
 ---
 
