@@ -1,5 +1,5 @@
 ---
-title: STUFF IS STUFF
+title: vSphere Supervisor Services
 taxonomy:
     category: articles
 ---
