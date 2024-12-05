@@ -1,3 +1,10 @@
+---
+title: vSphere Supervisor Services: MinIO
+taxonomy:
+    category: articles
+---
+
+
 # MinIO Quickstart Guide - vSphere 8 Supervisor Service
 
 [![MinIO](../_images/minio.logo.svg)]()
