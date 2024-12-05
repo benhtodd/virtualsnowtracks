@@ -1,5 +1,8 @@
 ---
-title: vSphere Supervisor Services: MinIO
+title: vSphere Supervisor Services -  MinIO
+menu_order: 1
+post_status: draft
+comment_status: closed
 taxonomy:
     category: articles
 ---
