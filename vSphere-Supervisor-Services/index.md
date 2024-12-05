@@ -1,5 +1,6 @@
 ---
 title: vSphere Supervisor Services
 taxonomy:
-    category: articles
+    category: vSphere Supervisor Services
+
 ---

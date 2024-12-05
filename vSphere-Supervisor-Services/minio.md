@@ -4,7 +4,7 @@ menu_order: 1
 post_status: draft
 comment_status: closed
 taxonomy:
-    category: articles
+    category: vSphere Supervisor Services
 ---
 
 
