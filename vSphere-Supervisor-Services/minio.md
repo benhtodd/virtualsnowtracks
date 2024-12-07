@@ -7,26 +7,27 @@ taxonomy:
     category: vSphere-Supervisor-Services
 ---
 
-
-# MinIO Quickstart Guide - vSphere 8 Supervisor Service
-
 ![MinIO](/_images/minio-logo.png)
 
+# MinIO Quickstart Guide - Updated for vSphere 8 U3 (VCF 5.2.1) Supervisor Service
 ---
+
+When I decided to deploy MinIO to my "vSphere Supervisor" Lab I of course warmed up my search skills. Did some finger streches and punded on the keyboard. I found quite a lot of info out there. However reading through blogs and docs, and tigers and bears. I found, that what was out there, got me 85% of the way there. The amazing coimmunity of support just could not get me over the finish line. Everything I found was 7 U3 or before. Luckily I had the time and contacts to find the answers to what buttons to push to get thissimply task done. So to help give back here is what I quickly put together as a QuikStart Step by Step on getting Minio Installed and ready to go.
+
 
 ![alt text](/_images/shot1.png)
 
 
 
 
-From the Berger Menu Select Workload Management
+1. In vCenter - From the Berger Menu - Select **Workload Management**
 
 ---
 ![alt text](/_images/workload.mangement.png)
 
-In Workload Management Select Services
+2. In Workload Management Select **Services**
 
-Click **ADD** under Add new Service
+3. Click **ADD** under Add new Service
 ---
 
 ![alt text](/_images/register.service.png)
